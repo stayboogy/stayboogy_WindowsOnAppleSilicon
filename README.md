@@ -31,7 +31,22 @@ https://www.mediafire.com/file/lferq3q9mpfknfb/VMware-Fusion-13.5.0-22583790_uni
 https://www.mediafire.com/file/0ezcck3ka5j6b3c/21390.1_MULTI_ARM64_EN-US.ISO/file
 	
 	
-3) Make sure Networking is NOT Using NAT / sharing connnection with this Mac
+3) Install Windows 10 in VMWare Fusion
+
+	- Create a Custom Virtual Machine
+	
+	- Choose Windows 11 Arm64 - even though we are using 10
+	
+	- Choose UEFI with NO Secure Boot
+	
+	- Create a password when it asks for one for the TPM 2.0 module emulation
+	
+	- All Other Settings you can choose as necessary
+	
+	- Install as normal
+	
+	
+4) Make sure Networking is NOT Using NAT / sharing connnection with this Mac
 
 	- Networking needs to have a seperate presence on the network to have file sharing working
 	
