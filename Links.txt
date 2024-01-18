@@ -1,0 +1,11 @@
+# Links
+
+## VMWare Fusion 13.5
+	 
+https://www.mediafire.com/file/lferq3q9mpfknfb/VMware-Fusion-13.5.0-22583790_universal.dmg/file
+	
+
+## Windows 10 Arm64 Insider Preview Devel Channel 21390.1 VL Pro + IoT Core
+
+https://www.mediafire.com/file/0ezcck3ka5j6b3c/21390.1_MULTI_ARM64_EN-US.ISO/file
+	
