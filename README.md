@@ -45,6 +45,8 @@ https://www.mediafire.com/file/0ezcck3ka5j6b3c/21390.1_MULTI_ARM64_EN-US.ISO/fil
 	
 	- Install as normal
 	
+	- Activate VL with KMS (see https://msguides.com/windows-10 for a no extra software or malware way to do this)
+	
 	- Install VMWare Tools for Windows, Reboot
 	
 	
