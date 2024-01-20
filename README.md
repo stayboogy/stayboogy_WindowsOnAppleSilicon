@@ -6,9 +6,9 @@ how to get a proper working Windows 10 Arm64 VM install working with sharing
 
 1) install VMware Fusion 13.5
 
-	- UTM does not work properly with file sharing and writing to the virtual disk and is a waste of time
+	- UTM has some kind of hardcoded 4GB filesize limit when sharing files and in Windows 10 Arm64 for some reason, and is a waste of time
 	
-	- Requires Free Registration at VMWare
+	- VMWare Fusion Requires Free Registration at VMWare
 	
 	- Download Link Here for Convenience 
 	 
@@ -45,10 +45,14 @@ https://www.mediafire.com/file/0ezcck3ka5j6b3c/21390.1_MULTI_ARM64_EN-US.ISO/fil
 	
 	- Install as normal
 	
+	- Install VMWare Tools for Windows, Reboot
+	
 	
 4) Make sure Networking is NOT Using NAT / sharing connnection with this Mac
 
 	- Networking needs to have a seperate presence on the network to have file sharing working
+	
+	
 	
 	- File Sharing can only be done directly through SMB
 	
