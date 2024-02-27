@@ -24,6 +24,11 @@ https://www.mediafire.com/file/lferq3q9mpfknfb/VMware-Fusion-13.5.0-22583790_uni
 	
 	- Expired Build - Update Nag Screen at Every Boot
 	
+		- Nag Screen Fix 
+		
+			HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\NoExpirationUX 1
+
+	
 	- No Other Issues - Can use in Perpetuity
 	
 	- Download Link Here for Convenience
