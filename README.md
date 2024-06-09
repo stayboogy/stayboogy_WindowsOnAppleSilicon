@@ -59,7 +59,7 @@ https://www.mediafire.com/file/0ezcck3ka5j6b3c/21390.1_MULTI_ARM64_EN-US.ISO/fil
 
 	- Networking needs to have a seperate presence on the network to have file sharing working
 	
-	![App Screenshot](https://codeberg.org/stayboogy/stayboogy_WindowsOnMacOS/raw/branch/main/network.png)
+	![App Screenshot](https://github.com/stayboogy/stayboogy_WindowsOnAppleSilicon/blob/f88cd514ba78715956a2697a9513a09936d03fd5/network.png)
 	
 	- File Sharing can only be done directly through SMB
 	
